@@ -197,51 +197,51 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| FOUND-01 | TBD | Pending |
-| FOUND-02 | TBD | Pending |
-| FOUND-03 | TBD | Pending |
-| FOUND-04 | TBD | Pending |
-| FOUND-05 | TBD | Pending |
-| STRAT-01 | TBD | Pending |
-| STRAT-02 | TBD | Pending |
-| STRAT-03 | TBD | Pending |
-| STRAT-04 | TBD | Pending |
-| IMPT-01 | TBD | Pending |
-| IMPT-02 | TBD | Pending |
-| IMPT-03 | TBD | Pending |
-| IMPT-04 | TBD | Pending |
-| IMPT-05 | TBD | Pending |
-| JIT-01 | TBD | Pending |
-| JIT-02 | TBD | Pending |
-| JIT-03 | TBD | Pending |
-| JIT-04 | TBD | Pending |
-| JIT-05 | TBD | Pending |
-| AUTH-01 | TBD | Pending |
-| AUTH-02 | TBD | Pending |
-| AUTH-03 | TBD | Pending |
-| AUTH-04 | TBD | Pending |
-| MFA-01 | TBD | Pending |
-| MFA-02 | TBD | Pending |
-| MFA-03 | TBD | Pending |
-| MFA-04 | TBD | Pending |
-| PWRC-01 | TBD | Pending |
-| PWRC-02 | TBD | Pending |
-| PWRC-03 | TBD | Pending |
-| SUPP-01 | TBD | Pending |
-| SUPP-02 | TBD | Pending |
-| SUPP-03 | TBD | Pending |
-| POST-01 | TBD | Pending |
-| POST-02 | TBD | Pending |
-| ROLL-01 | TBD | Pending |
-| ROLL-02 | TBD | Pending |
-| ROLL-03 | TBD | Pending |
-| ROLL-04 | TBD | Pending |
+| FOUND-01 | Phase 1: Platform Foundation | Pending |
+| FOUND-02 | Phase 1: Platform Foundation | Pending |
+| FOUND-03 | Phase 1: Platform Foundation | Pending |
+| FOUND-04 | Phase 1: Platform Foundation | Pending |
+| FOUND-05 | Phase 1: Platform Foundation | Pending |
+| STRAT-01 | Phase 2: Strategy Comparison | Pending |
+| STRAT-02 | Phase 2: Strategy Comparison | Pending |
+| STRAT-03 | Phase 2: Strategy Comparison | Pending |
+| STRAT-04 | Phase 2: Strategy Comparison | Pending |
+| IMPT-01 | Phase 3: Pre-Import Migration Pipeline | Pending |
+| IMPT-02 | Phase 3: Pre-Import Migration Pipeline | Pending |
+| IMPT-03 | Phase 3: Pre-Import Migration Pipeline | Pending |
+| IMPT-04 | Phase 3: Pre-Import Migration Pipeline | Pending |
+| IMPT-05 | Phase 3: Pre-Import Migration Pipeline | Pending |
+| JIT-01 | Phase 4: JIT Migration Pipeline | Pending |
+| JIT-02 | Phase 4: JIT Migration Pipeline | Pending |
+| JIT-03 | Phase 4: JIT Migration Pipeline | Pending |
+| JIT-04 | Phase 4: JIT Migration Pipeline | Pending |
+| JIT-05 | Phase 4: JIT Migration Pipeline | Pending |
+| AUTH-01 | Phase 5: Authentication Integration | Pending |
+| AUTH-02 | Phase 5: Authentication Integration | Pending |
+| AUTH-03 | Phase 5: Authentication Integration | Pending |
+| AUTH-04 | Phase 5: Authentication Integration | Pending |
+| MFA-01 | Phase 6: MFA & Password Recovery | Pending |
+| MFA-02 | Phase 6: MFA & Password Recovery | Pending |
+| MFA-03 | Phase 6: MFA & Password Recovery | Pending |
+| MFA-04 | Phase 6: MFA & Password Recovery | Pending |
+| PWRC-01 | Phase 6: MFA & Password Recovery | Pending |
+| PWRC-02 | Phase 6: MFA & Password Recovery | Pending |
+| PWRC-03 | Phase 6: MFA & Password Recovery | Pending |
+| POST-01 | Phase 7: Post-Auth & HRA Experience | Pending |
+| POST-02 | Phase 7: Post-Auth & HRA Experience | Pending |
+| SUPP-01 | Phase 9: Staged Rollout | Pending |
+| SUPP-02 | Phase 8: Support & Operations Tooling | Pending |
+| SUPP-03 | Phase 8: Support & Operations Tooling | Pending |
+| ROLL-01 | Phase 9: Staged Rollout | Pending |
+| ROLL-02 | Phase 9: Staged Rollout | Pending |
+| ROLL-03 | Phase 9: Staged Rollout | Pending |
+| ROLL-04 | Phase 10: Legacy Decommission & Hardening | Pending |
 
 **Coverage:**
 - v1 requirements: 39 total
-- Mapped to phases: 0
-- Unmapped: 39
+- Mapped to phases: 39
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-02-11*
-*Last updated: 2026-02-11 after initial definition*
+*Last updated: 2026-02-11 after roadmap phase mapping*
